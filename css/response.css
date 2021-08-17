@@ -1,0 +1,281 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+
+.banner {
+    margin-top: -608px;
+    height: 561px;
+    text-align: center;
+}
+
+
+.banner h4 {
+    
+    padding-top: 26vh;}
+
+
+     .banner img {
+    margin-top: 110px;
+}
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+
+.sev textarea {
+    
+    margin-left: 177px;}
+
+.sev input {
+    
+    width: 94%;}
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+   
+/*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+.sev .vre {
+    margin-left: 368px;}
+
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+
+
+
+   /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+.banner {
+    margin-top: -608px;
+    height: 1061px;
+    text-align: center;
+}
+.banner h4 {
+    
+    padding-top: 60vh;}
+    .banner img {
+    margin-top: 20px;
+}
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+ .toww-nd{
+    text-align: center;
+  }
+
+
+  .toww-nd p {
+    color: black;
+    
+    margin: 41px 0 -11px 0;
+}
+
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+.forth {
+  text-align: center;
+}
+
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+.six {
+    
+    background: url(../image/pexels-aleksandar-pasaric-2341830.jpg) center bottom no-repeat;
+    height: 1670px;
+}
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+.sev{text-align: center;}
+.sev input {
+    
+    width: 94%;}
+.sev textarea {
+    width: 96%;
+    
+      margin-left: 17px;
+    }
+  .sev .vre {
+    margin-left: 90px;
+    height: 50px;
+    width: 59%; }
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+
+
+
+.banner {
+    margin-top: -450px;
+    height: 1056px;
+    text-align: center;
+}
+
+.banner h4 {
+    
+    padding-top: 37vh;}
+    .banner img {
+    margin-top: 20px;
+}
+.bn-bt-2 {
+    
+    margin-top: 30px  !important;}
+/*------------------------
+
+-------------------------
+     2st section
+-----------------------
+------------------------*/
+
+
+  .toww-nd{
+    text-align: center;
+  }
+
+
+  .toww-nd p {
+    color: black;
+    
+    margin: 22px 0 48px 0;
+}
+  /*------------------------
+
+-------------------------
+     4st section
+-----------------------
+------------------------*/
+
+.forth{text-align: center;}
+.lin {
+    width: 140px;
+    
+    margin: 67px auto;
+}
+  /*------------------------
+}
+-------------------------
+     6st section
+-----------------------
+------------------------*/
+.six {
+    
+    background: url(../image/pexels-aleksandar-pasaric-2341830.jpg) center bottom no-repeat;
+    height: 1670px;
+}
+
+/*------------------------
+-------------------------
+  7st section
+-----------------------
+------------------------*/
+
+.sev{text-align: center;}
+.sev input {
+    
+    width: 94%;}
+.sev textarea {
+    width: 96%;
+    
+      margin-left: 17px;
+    }
+  .sev .vre {
+    margin-left: 90px;
+    height: 50px;
+    width: 59%; }
+
+}
